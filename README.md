@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on OS Projects
 - 📫 You can reach me from kaansubasioglu@gmail.com
+
+
 0000000000000000000000000000000000000000000000000000
 0__________________________________________________0                                                                                                                             
 0__________________110__________00_________________0                                                                                                                             
